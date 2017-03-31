@@ -43,18 +43,18 @@ var xiangarr=[
 	{
 		id:1,
 		biao:'太原市艺鸿菀晋韵文化项目',
-		img1:'images/30.jpg',
-		img2:'images/1.jpg'
+		img1:'images/z7.jpg',
+		img2:'images/z8.jpg'
 	},{
 		id:2,
 		biao:'玩吧 混合app',
-		img1:'images/12.jpg',
-		img2:'images/3.jpg'
+		img1:'images/z5.jpg',
+		img2:'images/z6.jpg'
 	},{
 		id:3,
 		biao:'IYOU 混合app',
-		img1:'images/12.jpg',
-		img2:'images/3.jpg'
+		img1:'images/z4.jpg',
+		img2:'images/z3.jpg'
 	},{
 		id:4,
 		biao:'本地便签Web应用',
