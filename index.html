@@ -3,7 +3,7 @@
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" ng-app='app'> <!--<![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" ng-app='app' ng-cloak> <!--<![endif]-->
 	<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -58,7 +58,7 @@
 	
 	<div id="fh5co-main">
 		<div class="fh5co-tab-wrap">
-			<ul class="fh5co-tab-menu" ng-controller="nav" ng-cloak>
+			<ul class="fh5co-tab-menu" ng-controller="nav">
 				<li class="active"><a href="#!/" data-tab="1"><span class="icon iconfont icon-wo"></span><span class="menu-text">我</span></a></li>
 				<li ng-repeat='v in navarr'><a ng-href="{{v.url}}" data-tab="{{v.id}}"><span class="icon iconfont {{v.tubiao}}"></span><span class="menu-text">{{v.biao}}</span></a></li>
 			</ul>
