@@ -58,7 +58,7 @@
 	
 	<div id="fh5co-main">
 		<div class="fh5co-tab-wrap">
-			<ul class="fh5co-tab-menu" ng-controller="nav">
+			<ul class="fh5co-tab-menu" ng-controller="nav" ng-cloak>
 				<li class="active"><a href="#!/" data-tab="1"><span class="icon iconfont icon-wo"></span><span class="menu-text">我</span></a></li>
 				<li ng-repeat='v in navarr'><a ng-href="{{v.url}}" data-tab="{{v.id}}"><span class="icon iconfont {{v.tubiao}}"></span><span class="menu-text">{{v.biao}}</span></a></li>
 			</ul>
