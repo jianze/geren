@@ -45,8 +45,8 @@ var xiangarr=[
 		biao:'太原市艺鸿菀晋韵文化项目',
 		img1:'images/z7.jpg',
 		img2:'images/z8.jpg',
-		url1:'https://yihongwan.duapp.com',
-		url2:'https://yihongwan.duapp.com'
+		url1:'http://yihongwan.duapp.com',
+		url2:'http://yihongwan.duapp.com'
 	},{
 		id:2,
 		biao:'玩吧 混合app',
