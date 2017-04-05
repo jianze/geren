@@ -44,22 +44,30 @@ var xiangarr=[
 		id:1,
 		biao:'太原市艺鸿菀晋韵文化项目',
 		img1:'images/z7.jpg',
-		img2:'images/z8.jpg'
+		img2:'images/z8.jpg',
+		url1:'yihongwan.duapp.com',
+		url2:'yihongwan.duapp.com'
 	},{
 		id:2,
 		biao:'玩吧 混合app',
 		img1:'images/z5.jpg',
-		img2:'images/z6.jpg'
+		img2:'images/z6.jpg',
+		url1:'jianze.github.io/wanba',
+		url2:'jianze.github.io/wanba'
 	},{
 		id:3,
 		biao:'IYOU 混合app',
 		img1:'images/z4.jpg',
-		img2:'images/z3.jpg'
+		img2:'images/z3.jpg',
+		url1:'jianze.github.io/jianzhi',
+		url2:'jianze.github.io/jianzhi'
 	},{
 		id:4,
 		biao:'本地便签Web应用',
 		img1:'images/z1.jpg',
-		img2:'images/z2.jpg'
+		img2:'images/z2.jpg',
+		url1:'jianze.github.io/biaoqian',
+		url2:'jianze.github.io/localStorage'
 	}
 ];
 var jinengarr=[
